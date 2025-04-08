@@ -1,4 +1,4 @@
-📝 **Project Title: Student Report Card Dashboard**
+📝 **Project Title: Power BI Student Marks Dashboard: Parental Access with Privacy Controls**
 **Description:**
 This Power BI dashboard project visualizes and analyzes student academic performance using a structured report card format. It offers interactive visuals to track individual and class-level insights for better decision-making in academic environments.
 
