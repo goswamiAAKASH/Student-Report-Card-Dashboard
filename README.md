@@ -22,6 +22,7 @@ Excel/CSV dataset (mock student report card data)
 
 🔗 **Live Demo:**
 👉 https://app.powerbi.com/view?r=eyJrIjoiYjRmZTE1ZTMtMDNiMi00OGFjLWE3ZjYtOWY1YTE1MzhlYTJjIiwidCI6IjUyYTg3NmM3LTk2NzYtNGE4ZC04M2I1LTU3YjRmNDUyNGVkMSJ9
+
 (example:  userid :  3042201459
            password: Joh1459 
 )
